@@ -22,9 +22,9 @@ About Me: </h4>
 Hi, I’m @AngieC77.<br>
 I'm starting my new career as Software Developer.<br>
 Currently I'm studying to be a certified Full Stack Software Developer (IBM). <br>
-Besides the certificate I'm also doing a course for Unity game creation in 2D/3D. <br>
-My goal is to build up experience in different languages and technologies in order to acquire a rounded profile.<br>
-Any help or suggestions with my efforts are highly appreciated. <br>
+Besides the certificate I'm also working on a course for Unity game creation in 2D/3D. <br>
+My goal is to gain experience in different languages and technologies in order to acquire a rounded profile as Software Developer.<br>
+Any help or suggestions with my efforts are highly appreciated. Feel free to message me.<br>
 <br>
 <h4 type="bold">Languages & Tools I have worked with:</h4>
 <div>
